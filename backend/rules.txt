@@ -1,0 +1,3 @@
+# Mỗi dòng là một rule riêng của bạn (dòng bắt đầu bằng # bị bỏ qua)
+Email từ giảng viên hoặc địa chỉ có đuôi .edu.vn luôn là "urgent"
+Email có từ "hóa đơn", "invoice", "thanh toán", "hạn nộp" thì xếp "billing"

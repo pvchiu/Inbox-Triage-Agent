@@ -1,0 +1,22 @@
+# Environment variables & Secret Keys
+.env
+.env.*
+*.env
+.env.local
+
+# Google OAuth tokens & Local Database
+token.json
+backend/token.json
+*.db
+triage.db
+backend/triage.db
+
+# Python & Node dependencies / builds
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.next/
+dist/
+build/
+
